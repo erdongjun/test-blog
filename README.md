@@ -12,6 +12,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+-[测试首页](./index.md)
+
 ## Header 2
 ### Header 3
 
