@@ -14,7 +14,7 @@ Syntax highlighted code block
 # Header 1
 -[](./index.md)
 
-[测试首页](./index.md)
+[测试首页](https://erdongjun.github.io/test-blog/index.md)
 
 ## Header 2
 ### Header 3
